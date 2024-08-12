@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\bin\Debug\net8.0\hien_thi_cac_loai_hinh.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\bin\Debug\net8.0\hien_thi_cac_loai_hinh.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\bin\Debug\net8.0\hien_thi_cac_loai_hinh.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\bin\Debug\net8.0\hien_thi_cac_loai_hinh.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\bin\Debug\net8.0\hien_thi_cac_loai_hinh.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\obj\Debug\net8.0\hien_thi_cac_loai_hinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\obj\Debug\net8.0\hien_thi_cac_loai_hinh.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\obj\Debug\net8.0\hien_thi_cac_loai_hinh.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\obj\Debug\net8.0\hien_thi_cac_loai_hinh.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\obj\Debug\net8.0\hien_thi_cac_loai_hinh.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\obj\Debug\net8.0\refint\hien_thi_cac_loai_hinh.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\obj\Debug\net8.0\hien_thi_cac_loai_hinh.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\obj\Debug\net8.0\hien_thi_cac_loai_hinh.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\hien_thi_cac_loai_hinh\obj\Debug\net8.0\ref\hien_thi_cac_loai_hinh.dll
